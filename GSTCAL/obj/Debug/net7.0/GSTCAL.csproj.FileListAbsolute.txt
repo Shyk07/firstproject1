@@ -1,0 +1,15 @@
+/Users/apple/Projects/GSTCAL/GSTCAL/bin/Debug/net7.0/GSTCAL
+/Users/apple/Projects/GSTCAL/GSTCAL/bin/Debug/net7.0/GSTCAL.deps.json
+/Users/apple/Projects/GSTCAL/GSTCAL/bin/Debug/net7.0/GSTCAL.runtimeconfig.json
+/Users/apple/Projects/GSTCAL/GSTCAL/bin/Debug/net7.0/GSTCAL.dll
+/Users/apple/Projects/GSTCAL/GSTCAL/bin/Debug/net7.0/GSTCAL.pdb
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.csproj.AssemblyReference.cache
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.AssemblyInfoInputs.cache
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.AssemblyInfo.cs
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.dll
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/refint/GSTCAL.dll
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.pdb
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/GSTCAL.genruntimeconfig.cache
+/Users/apple/Projects/GSTCAL/GSTCAL/obj/Debug/net7.0/ref/GSTCAL.dll
