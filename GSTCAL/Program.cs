@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OLLO
+namespace BOLLO
 {
 
     class GSTCalc
@@ -9,7 +9,7 @@ namespace OLLO
         {
             try
             {
-                Console.WriteLine("Nau Mai ki tō GST Calculator!");
+                Console.WriteLine("Nau Mai blah ki tō GST Calculator!");
 
                 Console.Write("Enter product name: ");
                 string productName = Console.ReadLine();
